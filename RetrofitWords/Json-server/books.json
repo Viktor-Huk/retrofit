@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "To Kill a Mockingbird"
+    },
+    {
+      "id": 2,
+      "title": "One Hundred Years of Solitude"
+    },
+    {
+      "id": 3,
+      "title": "Harry potter"
+    },
+    {
+      "id": 4,
+      "title": "Survivor"
+    },
+    {
+      "id": 5,
+      "title": "Inferno"
+    }
+  ]
+}
