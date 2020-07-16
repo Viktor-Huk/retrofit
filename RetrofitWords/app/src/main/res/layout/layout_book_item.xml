@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_marginTop="10dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title_book"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/title_book"
+        android:textSize="@dimen/text_size"/>
+
+    <TextView
+        android:id="@+id/author_book"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size"
+        android:text="@string/author_book"/>
+
+</LinearLayout>
